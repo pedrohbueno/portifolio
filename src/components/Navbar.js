@@ -17,17 +17,17 @@ export default function Navbar (){
                 <div className="d-flex align-items-center mx-5 fs-4">
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0 gap-4">
                         <li className="nav-item">
-                        <Link  className="nav-link" href="projetos">
+                        <Link  className="nav-link" href="/projetos">
                             Projetos
                         </Link>
                         </li>
                         <li className="nav-item">
-                        <Link  className="nav-link" href="certificados">
+                        <Link  className="nav-link" href="/certificados">
                             Certificados
                         </Link>
                         </li>
                         <li className="nav-item">
-                        <Link  className="nav-link" href="contato">
+                        <Link  className="nav-link" href="/contato">
                             Contatos
                         </Link>
                         </li>
