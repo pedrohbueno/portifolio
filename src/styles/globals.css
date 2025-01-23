@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: "Century Gothic", "Segoe UI", sans-serif;
+  }
+main{
+  padding-top: 82px;
+  padding-bottom: 82px;
+  background-color: #ffffff;
+}
+.bglayout{ 
+  background: #FAFAFA;
+}
