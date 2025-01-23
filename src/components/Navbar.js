@@ -7,7 +7,7 @@ export default function Navbar (){
                 
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     
-                    <Link  className="d-flex navbar-brand mt-2 mt-lg-0 gap-3" href="#">
+                    <Link  className="d-flex navbar-brand mt-2 mt-lg-0 gap-3" href="/">
                         <img src='logo.png' className="mx-4" width="80"/>
                         <p className="h1 font-weight-bold my-auto">Pedro Bueno</p>
                     </Link >

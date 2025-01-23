@@ -1,14 +1,18 @@
 {
+  "homepage": "https://pedrohbueno.github.io/portifolio",
   "name": "client",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "predeploy": "next build",
+    "deploy": "gh-pages -d out",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
+    "@popperjs/core": "^2.11.8",
     "axios": "^1.6.2",
     "bootstrap": "^5.3.2",
     "fs": "^0.0.1-security",
