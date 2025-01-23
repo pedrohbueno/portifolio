@@ -13,7 +13,7 @@ export default function Home() {
             Experiencia na programação da parte <br/> visual de websites utilizando o ReactJs
           </h3>
         </div>
-        <img src="me.png"/>
+        <img src="/portifolio/me.png"/>
       </div>
       <div style={{marginTop: "300px"}}>
         <h1 className="text-center mt-5">Habilidades</h1>
