@@ -13,7 +13,7 @@
         {items.map((item, index) => (
           <div className="col-sm-3" key={index}>
             <div className="card">
-              <img src={`${item}`} alt={item}/>
+              <img src={`certificados-img/${item}`} alt={item}/>
             </div>
           </div>
         ))}
